@@ -1,0 +1,15 @@
+C:\Users\nakay\Vika\examples\kontrolnaya\bin\Debug\net6.0\kontrolnaya.exe
+C:\Users\nakay\Vika\examples\kontrolnaya\bin\Debug\net6.0\kontrolnaya.deps.json
+C:\Users\nakay\Vika\examples\kontrolnaya\bin\Debug\net6.0\kontrolnaya.runtimeconfig.json
+C:\Users\nakay\Vika\examples\kontrolnaya\bin\Debug\net6.0\kontrolnaya.dll
+C:\Users\nakay\Vika\examples\kontrolnaya\bin\Debug\net6.0\kontrolnaya.pdb
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.AssemblyInfo.cs
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.dll
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\refint\kontrolnaya.dll
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.pdb
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\kontrolnaya.genruntimeconfig.cache
+C:\Users\nakay\Vika\examples\kontrolnaya\obj\Debug\net6.0\ref\kontrolnaya.dll
